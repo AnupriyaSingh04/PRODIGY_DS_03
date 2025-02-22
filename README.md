@@ -1,5 +1,4 @@
-# Data Science Internship Task 3
-
+# Data Science Project : Purchase Prediction Model
 
 
 Welcome to the repository for my internship task submission for Prodigy Infotech! In this project, I developed machine learning models to predict whether clients will subscribe to a term deposit based on demographic and behavioral data from direct marketing campaigns conducted by a Portuguese banking institution.
